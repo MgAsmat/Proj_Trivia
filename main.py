@@ -118,7 +118,7 @@ while begin_trivia == True:
     type(MAGENTA + "If you get it wrong you'll lose half your points\n" +
          RESET)
     if pts == 0:
-        type(BLUE + "\nRemember! " + BOLD + "2 × 0 = 0 " + END + BLUE +
+        type(BLUE + "\nRemember! " + BOLD + "[2 × 0 = 0]" + END + BLUE +
              "ಥ⁠‿⁠ಥ" + RESET)
     type("\nPress Y to continue or any other key to finish the game: ")
 
